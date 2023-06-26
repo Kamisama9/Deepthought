@@ -135,6 +135,19 @@ letter-spacing: 0.032em;
 
 color: #FFFFFF;
 }
+.number{
+  position: absolute;
+  padding: .6rem 2rem;
+  border-radius: 2rem;
+  border: .16rem solid #0029FF;
+  top:7rem;
+  right:2rem;
+  color: #0029FF;
+font-size: 3.6rem;
+font-family: 'Poppins';
+letter-spacing: 0.72rem;
+
+ }
 .list-heading
 {
    
