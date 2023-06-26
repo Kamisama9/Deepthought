@@ -2,7 +2,9 @@
 html{
     font-size: 62.5%;
 }
-
+#wrapper::-webkit-scrollbar {
+  display: none;
+}
 *{
     margin: 0;
     padding: 0;
